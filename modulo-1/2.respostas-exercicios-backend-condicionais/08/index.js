@@ -1,0 +1,16 @@
+const idade = 18;
+const possuiPatologia = false;
+const altura = 180;
+const ehEstudante = false;
+
+if ( (ehEstudante) || (idade <= 18 && idade >= 12)) {
+    console.log("10 reais ")
+}
+
+else if ( (idade < 12 || idade > 65) || (possuiPatologia) || (altura < 150)) {
+    console.log("ACESSO NEGADO");
+}
+
+else {
+    console.log("20 reais")
+}
