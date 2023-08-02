@@ -2,7 +2,7 @@
 
 # MODULO 1
 
-**Neste reposítorio pode ser encontrado todos os exercícios e desafios criados no curso**
+**Neste reposítorio pode ser encontrado todos os exercícios e desafios criados no primeiro modulo**
 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/matheuzeba)
 
